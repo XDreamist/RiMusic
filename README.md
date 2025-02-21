@@ -279,12 +279,21 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/XDreamist>
+            <img src=https://avatars.githubusercontent.com/u/118098139?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=XD/>
+            <br />
+            <sub style="font-size:14px"><b>XD</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/sharunkumar>
             <img src=https://avatars.githubusercontent.com/u/715417?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sharun/>
             <br />
             <sub style="font-size:14px"><b>Sharun</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/KalyaSc>
             <img src=https://avatars.githubusercontent.com/u/95717211?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=KalyaSc/>
@@ -292,8 +301,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>KalyaSc</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/Bnyro>
             <img src=https://avatars.githubusercontent.com/u/82752168?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bnyro/>
@@ -329,6 +336,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>offa</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/lrusso96>
             <img src=https://avatars.githubusercontent.com/u/26090639?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luigi Russo/>
@@ -336,8 +345,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Luigi Russo</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/locxter>
             <img src=https://avatars.githubusercontent.com/u/54595101?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luca Schultz/>
@@ -357,13 +364,6 @@ WARNING, the custom version is not an official release, download only if invited
             <img src=https://avatars.githubusercontent.com/u/69381592?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=ARBoyGo/>
             <br />
             <sub style="font-size:14px"><b>ARBoyGo</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/XDreamist>
-            <img src=https://avatars.githubusercontent.com/u/118098139?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=XD/>
-            <br />
-            <sub style="font-size:14px"><b>XD</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
