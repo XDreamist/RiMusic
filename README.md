@@ -235,47 +235,10 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/AnnNaserNabil>
-            <img src=https://avatars.githubusercontent.com/u/16422192?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ann Naser Nabil/>
-            <br />
-            <sub style="font-size:14px"><b>Ann Naser Nabil</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/DarkCrypt>
-            <img src=https://avatars.githubusercontent.com/u/121076677?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DarkCrypt/>
-            <br />
-            <sub style="font-size:14px"><b>DarkCrypt</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/muhaaliss>
-            <img src=https://avatars.githubusercontent.com/u/102979224?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Muha Aliss/>
-            <br />
-            <sub style="font-size:14px"><b>Muha Aliss</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/sayyid5416>
-            <img src=https://avatars.githubusercontent.com/u/78584556?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sayyid/>
-            <br />
-            <sub style="font-size:14px"><b>Sayyid</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/S0nter>
             <img src=https://avatars.githubusercontent.com/u/108224581?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sonter/>
             <br />
             <sub style="font-size:14px"><b>Sonter</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/bbyeen>
-            <img src=https://avatars.githubusercontent.com/u/80675742?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Matt/>
-            <br />
-            <sub style="font-size:14px"><b>Matt</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
@@ -285,11 +248,48 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>XD</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/sharunkumar>
-            <img src=https://avatars.githubusercontent.com/u/715417?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sharun/>
+        <a href=https://github.com/sayyid5416>
+            <img src=https://avatars.githubusercontent.com/u/78584556?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sayyid/>
             <br />
-            <sub style="font-size:14px"><b>Sharun</b></sub>
+            <sub style="font-size:14px"><b>Sayyid</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/muhaaliss>
+            <img src=https://avatars.githubusercontent.com/u/102979224?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Muha Aliss/>
+            <br />
+            <sub style="font-size:14px"><b>Muha Aliss</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/DarkCrypt>
+            <img src=https://avatars.githubusercontent.com/u/121076677?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DarkCrypt/>
+            <br />
+            <sub style="font-size:14px"><b>DarkCrypt</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/AnnNaserNabil>
+            <img src=https://avatars.githubusercontent.com/u/16422192?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ann Naser Nabil/>
+            <br />
+            <sub style="font-size:14px"><b>Ann Naser Nabil</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/25huizengek1>
+            <img src=https://avatars.githubusercontent.com/u/50515369?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=25huizengek1/>
+            <br />
+            <sub style="font-size:14px"><b>25huizengek1</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/Bnyro>
+            <img src=https://avatars.githubusercontent.com/u/82752168?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bnyro/>
+            <br />
+            <sub style="font-size:14px"><b>Bnyro</b></sub>
         </a>
     </td>
 </tr>
@@ -302,17 +302,17 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/Bnyro>
-            <img src=https://avatars.githubusercontent.com/u/82752168?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bnyro/>
+        <a href=https://github.com/sharunkumar>
+            <img src=https://avatars.githubusercontent.com/u/715417?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sharun/>
             <br />
-            <sub style="font-size:14px"><b>Bnyro</b></sub>
+            <sub style="font-size:14px"><b>Sharun</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/25huizengek1>
-            <img src=https://avatars.githubusercontent.com/u/50515369?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=25huizengek1/>
+        <a href=https://github.com/bbyeen>
+            <img src=https://avatars.githubusercontent.com/u/80675742?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Matt/>
             <br />
-            <sub style="font-size:14px"><b>25huizengek1</b></sub>
+            <sub style="font-size:14px"><b>Matt</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
